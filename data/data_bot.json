@@ -16,5 +16,9 @@
     "gagal": 6,
     "total": 12
   },
-  "groupSettings": {}
+  "groupSettings": {
+    "-1002890611304": {
+      "antipromosi": true
+    }
+  }
 }
