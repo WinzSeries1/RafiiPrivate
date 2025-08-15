@@ -23,7 +23,7 @@
       "antipromosi": true
     },
     "-1002817265029": {
-      "antilink": false,
+      "antilink": true,
       "antipromosi": true
     }
   }
